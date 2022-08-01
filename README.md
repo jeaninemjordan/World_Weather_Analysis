@@ -64,7 +64,9 @@ Below is an itinerary overview listing the travel routes, as well as images of t
 
 ### Statistical Analysis
 
-Linear regression was used to study the relationship between latitude versus maximum temperature, humidity, cloudiness, and wind speed using global city data. Below are scatterplot visualizations depicting this analysis using data obtained using the OpenWeatherMap API. 
+A statistical analysis was conducted to study the relationship between latitude versus maximum temperature, humidity, cloudiness, and wind speed using global city data. In the scatterplot visualizations, a definite correlation in latitude and maximum temperature is observed. Metrics such as wind speed, humidity and cloudiness are more unpredictable, making their relationships versus city latitude more difficult to see. 
+
+Below are scatterplot visualizations depicting this analysis using data obtained using the OpenWeatherMap API. 
 
 #### Maximum Temperature
 ![](Weather_Data/Fig1.png)
@@ -78,7 +80,7 @@ Linear regression was used to study the relationship between latitude versus max
 #### Wind Speeds
 ![](Weather_Data/Fig4.png)
 
-Linear regression was then performed for the Northern and Southern Hemispheres using the same four weather metrics measured above: maximum temperature, humidity, cloudiness and wind speed. 
+Linear regression was then performed for the latitudes of the Northern and Southern Hemispheres using the same four weather metrics measured above: maximum temperature, humidity, cloudiness and wind speed. The direct correlation of hemispherical latitude versus maximum temperature is observed. Similar to the scatterplot analysis above, wind speed, humidity and cloudiness present unpredicable relationships with the hemispherical latitudes they occur within. 
 
 ### Northern Hemisphere 
 
