@@ -13,7 +13,7 @@ further illustrating the capabilities of this analysis to potential travelers. A
 
 ### Weather Database
 
-A randomized set of 2,000 latitudes and longitudes was generated using an API call that gathered weather data from OpenWeatherMap.org for the nearest correspondning cities. The latitudes and longitudes, minumum and maximum temperatures, humidity percentages, cloudiness percentages, wind speeds and current weather descriptions were retrieved during this API call. This data was compiled into a CSV file and exported into our analysis folder, supplying the data used throughout this analysis.  
+A randomized set of 2,000 latitudes and longitudes was generated using an API call that gathered weather data from OpenWeatherMap.org for the nearest correspondning cities. The latitudes and longitudes, minumum and maximum temperatures, humidity percentages, cloudiness percentages, wind speeds and current weather descriptions were retrieved during this API call. This data was compiled into a CSV file and exported into our analysis folder to supply the data used throughout this analysis.  
 
 Below are heat map visualizations generated using the Google Maps API that depict the aforementioned catergories retrieved during the OpenWeatherMap API call.
 
