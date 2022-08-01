@@ -5,7 +5,7 @@
 ### Project Overview
 
 This exploratory analyisis collects, examines and visualizes weather data around the world, specifically providing travelers data in destinations that match their specified temperature perameters. A sample travel itinerary is depicted below that catalogs the hotel listings and travel routes for four cities in coastal Brazil, 
-further illustrating the capabilities of this analysis to potential travelers. A statistical analysis is conducted using linear regression to study the relationship between weather and region by hemispherical as well as by city latitudes.   
+further illustrating the capabilities of this analysis to potential travelers. A statistical analysis is conducted using linear regression to study the relationship between weather and region by hemisphere as well as by city latitudes.   
 
 #### Resources: 
 * Software: Jupyter Notebook, Anaconda, Python 3.7.6 (Dependencies: Pandas, Matplotlib, NumPy, SciPy, Python Requests, JSON Traversals)
