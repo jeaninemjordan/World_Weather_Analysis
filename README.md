@@ -64,7 +64,7 @@ Below is an itinerary overview listing the travel routes, as well as images of t
 
 ### Statistical Analysis
 
-A statistical analysis was conducted to study the relationship between latitude versus maximum temperature, humidity, cloudiness, and wind speed using global city data. In the scatterplot visualizations, a definite correlation in latitude and maximum temperature is observed. Metrics such as wind speed, humidity and cloudiness are more unpredictable, making their relationships versus city latitude more difficult to see. 
+A statistical analysis was conducted to study the relationship between latitude versus maximum temperature, humidity, cloudiness, and wind speed using global city data. In the scatterplot visualizations, a definite correlation in latitude and maximum temperature is observed. Metrics such as wind speed, humidity and cloudiness are more unpredictable, making their relationships versus city latitude more difficult to see. When these charts are all observed together, the viewer is able to observe which latitudes are lowest and highest in all categories at a glance. 
 
 Below are scatterplot visualizations depicting this analysis using data obtained using the OpenWeatherMap API. 
 
